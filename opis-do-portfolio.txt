@@ -1,0 +1,7 @@
+Tytuł: Niesforne Nożyczki
+Podtytuł: salon fryzjerski · Wrocław
+Opis (1–2 zdania): Projekt demonstracyjny strony salonu fryzjerskiego, na której klientka szybko znajduje usługę, cenę i termin, a właściciel sam ustawia promocje, godziny otwarcia i treści w panelu administracyjnym.
+Tagi: Strona one-page · Panel administracyjny · Promocje z terminem · PL/EN · Wersja na telefon
+Miniatura: img/d-start.webp
+Link do strony: https://niesforne-nozyczki.pages.dev
+Link do karty: /portfolio/niesforne-nozyczki/
